@@ -3,8 +3,6 @@ Hi, I am Hendrik, a full stack developer and graphic designer from Cape Town, So
 
 ## Currently Working and Learning On
 
-<img src="https://github.com/Hendrik-de-Wet/Resources/blob/main/dot-net-core-in-memory-caching.png"/>
-
 ### ASP.NET Core - In-Memory Caching in ASP.NET Core | September 2022
 Exploring the technique of storing frequently accessed data at a temporary location for quicker access in the future to significantly improve the performance of an application by reducing the time required for connecting with the data source frequently and sending data across the network.
 
