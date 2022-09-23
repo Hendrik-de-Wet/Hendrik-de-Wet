@@ -15,7 +15,7 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 <img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"> Exploring the technique of storing frequently accessed data at a temporary location for quicker access in the future to significantly improve the performance of an application by reducing the time required for connecting with the data source frequently and sending data across the network. <a href="https://github.com/Hendrik-de-Wet/dot-net-in-memory-caching">Read More <a/>
 
 ### Bootstrap Multi Select Dropdown | August 2022
-<img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>Building a multi select drop down using JavaScript, CSS and Boostrap. <a href="#">Read More <a/></br>
+<img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>Building a multi select drop down using JavaScript, CSS and Bootstrap. <a href="#">Read More <a/></br>
 </br>
 </br>
 ### Animating SVG with CSS | July 2022
