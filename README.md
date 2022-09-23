@@ -6,7 +6,7 @@ Should you wish to contact me, send me message on LinkedIn.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/hendrikdewet/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width:200px"/>
   </a>
 </div>
 
