@@ -4,6 +4,9 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 
 ## Currently Exploring
 
+[![Proguard](https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching)](http://www.thiengo.com.br/proguard-android){: .image-left } Your Text comes here...
+
+
 ### .NET - Global Error Handler Middleware | September 2022 
 
 Using the global error handler to catch all errors and remove the need for duplicated error handling code throughout the .NET API application. This is configured as middleware in the configure HTTP request pipeline section of the Program.cs file. <a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/>
@@ -13,7 +16,7 @@ Using the global error handler to catch all errors and remove the need for dupli
 ### .NET  - In-Memory Caching in .NET | September 2022
 Exploring the technique of storing frequently accessed data at a temporary location for quicker access in the future to significantly improve the performance of an application by reducing the time required for connecting with the data source frequently and sending data across the network. <a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/>
 
-### Bootstrap Multi Select Dropdown
+### Bootstrap Multi Select Dropdown | August 2022
 Building a multi select drop down using JavaScript, CSS and Boostrap.
 
 ## How To Reach Me
@@ -38,18 +41,3 @@ Just some fo the languages and tools that I am currently working with.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="75" height="75"/>&nbsp;
 </div>
-
-<!--
-**Hendrik-de-Wet/Hendrik-de-Wet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
