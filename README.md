@@ -1,14 +1,19 @@
 ## About Me
-I am a full stack developer and graphic designer from Cape Town, South Africa.
+I am a full stack developer and graphic designer from Cape Town, South Africa. I am passionate about technology, formulating solutions and always driving excellence through collaboration and knowledge sharing. Always determined to achieve extraordinary results and  I take pride in crafting beautiful, performant and secure web/user experiences.
 
 ## How To Reach Me
+Should you wish to contact me, send me message on LinkedIn.
+
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/hendrikdewet/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+  </a>
 </div>
 
 ## Languages And Tools
+
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
