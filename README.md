@@ -4,17 +4,13 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 
 ## Currently Exploring
 
-<table width="100%">
-  <tr>
-  <td width="100px">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET CORE" alt=".NET CORE" width="75px" height="75px"/>&nbsp;    
-    </td>
-  <td width="100%">
-    ### .NET - Global Error Handler Middleware | September 2022
+Inline-style: 
+![alt text](https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg "Logo Title Text 1")
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET CORE" alt=".NET CORE" width="75px" height="75px"/>&nbsp;    
+      
+### .NET - Global Error Handler Middleware | September 2022
 Using the global error handler to catch all errors and remove the need for duplicated error handling code throughout the .NET API application. This is configured as middleware in the configure HTTP request pipeline section of the Program.cs file. <a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/>
-    </td>
-  </tr>
-</table>
 
 ## Explored
   
