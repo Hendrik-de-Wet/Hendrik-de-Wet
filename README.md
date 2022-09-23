@@ -27,6 +27,14 @@ Should you wish to contact me, please send me message on LinkedIn.
   </a>
 </div>
 
+
+<div id="badges">
+  <a href="https://www.behance.net/hendrikdewet">
+    <img src="hhttps://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" alt="LinkedIn" width="75" style="width:75px"/>
+  </a>
+</div>
+
+
 ## Languages And Tools
 
 Just some fo the languages and tools that I am currently working with.
