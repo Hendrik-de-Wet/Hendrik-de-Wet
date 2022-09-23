@@ -5,12 +5,18 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 ## Currently Exploring
 
 ### .NET - Global Error Handler Middleware | September 2022
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET CORE" alt=".NET CORE" width="75" height="75"/>&nbsp;
 Using the global error handler to catch all errors and remove the need for duplicated error handling code throughout the .NET API application. This is configured as middleware in the configure HTTP request pipeline section of the Program.cs file. <a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/>
 
 ## Explored
   
 ### .NET  - In-Memory Caching in .NET | September 2022
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET CORE" alt=".NET CORE" width="75" height="75"/>&nbsp;
 Exploring the technique of storing frequently accessed data at a temporary location for quicker access in the future to significantly improve the performance of an application by reducing the time required for connecting with the data source frequently and sending data across the network. <a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/>
+
+### Bootstrap Multi Select Dropdown
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>&nbsp;
+Building a multi select drop down using JavaScript, CSS and Boostrap.
 
 ## How To Reach Me
 Should you wish to contact me, please send me message on LinkedIn.
