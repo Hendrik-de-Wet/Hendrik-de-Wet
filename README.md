@@ -6,6 +6,8 @@ Hi, I am Hendrik, a full stack .NET developer and graphic designer from Cape Tow
 ### .NET - Global Error Handler Middleware | September 2022
 Using the global error handler to catch all errors and remove the need for duplicated error handling code throughout the .NET API application. This is configured as middleware in the configure HTTP request pipeline section of the Program.cs file. <a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/>
 
+## Explored
+  
 ### .NET  - In-Memory Caching in .NET | September 2022
 Exploring the technique of storing frequently accessed data at a temporary location for quicker access in the future to significantly improve the performance of an application by reducing the time required for connecting with the data source frequently and sending data across the network. <a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/>
 
