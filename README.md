@@ -3,10 +3,14 @@ Hi, I am Hendrik, a full stack .NET developer and graphic designer from Cape Tow
 
 ## Currently Exploring
 
-### ASP.NET Core - In-Memory Caching in ASP.NET Core | September 2022
+### .NET - Global Error Handler Middleware
+
+<i>(Article and Source Code coming soon)</i>
+
+### .NET  - In-Memory Caching in .NET | September 2022
 Exploring the technique of storing frequently accessed data at a temporary location for quicker access in the future to significantly improve the performance of an application by reducing the time required for connecting with the data source frequently and sending data across the network.
 
-Source Code: https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching
+<a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More </>
 
 ## How To Reach Me
 Should you wish to contact me, please send me message on LinkedIn.
