@@ -16,6 +16,9 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 
 ### Bootstrap Multi Select Dropdown | August 2022
 <img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>Building a multi select drop down using JavaScript, CSS and Boostrap. <a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/></br>
+  
+### Animating SVG with CSS | July 2022
+<img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>There isn’t just one way to animate a SVG file. There is the <animate> and <animateTransform> tags that goes right into the SVG code. <a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/></br>
 </br>
 </br>
 ## How To Reach Me
