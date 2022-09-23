@@ -25,8 +25,8 @@ Should you wish to contact me, please send me message on LinkedIn.
   <a href="https://www.linkedin.com/in/hendrikdewet/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="75" style="width:75px"/>
   </a>
-  <a href="https://www.behance.net/hendrikdewet">
-    <img src="hhttps://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" alt="Behance" width="75" style="width:75px"/>
+  <a href="https://www.behance.net/hendrikdewet/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" alt="Behance" width="75" style="width:75px"/>
   </a>
 </div>
 
