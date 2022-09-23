@@ -1,7 +1,7 @@
 ## About Me
 Hi, I am Hendrik, a full stack developer and graphic designer from Cape Town, South Africa. I am passionate about technology, formulating solutions and always driving excellence through collaboration and knowledge sharing. Always determined to achieve extraordinary results and  I take pride in crafting beautiful, performant and secure web/user experiences. 
 
-## Currently Working and Learning On
+## Currently Exploring
 
 ### ASP.NET Core - In-Memory Caching in ASP.NET Core | September 2022
 Exploring the technique of storing frequently accessed data at a temporary location for quicker access in the future to significantly improve the performance of an application by reducing the time required for connecting with the data source frequently and sending data across the network.
