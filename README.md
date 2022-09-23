@@ -18,8 +18,9 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 
 ### Bootstrap Multi Select Dropdown | August 2022
 <img align="left" width="75" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>Building a multi select drop down using JavaScript, CSS and Boostrap.</br>
-<a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/>
+<a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/></br>
 
+  
 ## How To Reach Me
 Should you wish to contact me, please send me message on LinkedIn.
 
