@@ -1,5 +1,5 @@
 ## About Me
-I am a full stack developer and graphic designer from Cape Town, South Africa. I am passionate about technology, formulating solutions and always driving excellence through collaboration and knowledge sharing. Always determined to achieve extraordinary results and  I take pride in crafting beautiful, performant and secure web/user experiences.
+Hi, I am Hendrik, a full stack developer and graphic designer from Cape Town, South Africa. I am passionate about technology, formulating solutions and always driving excellence through collaboration and knowledge sharing. Always determined to achieve extraordinary results and  I take pride in crafting beautiful, performant and secure web/user experiences. 
 
 ## Currently Working and Learning On
 
