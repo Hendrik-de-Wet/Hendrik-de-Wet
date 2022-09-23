@@ -13,10 +13,12 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 ## Explored
   
 ### .NET  - In-Memory Caching in .NET | September 2022
-Exploring the technique of storing frequently accessed data at a temporary location for quicker access in the future to significantly improve the performance of an application by reducing the time required for connecting with the data source frequently and sending data across the network. <a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/>
+<img align="left" width="75" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"> Exploring the technique of storing frequently accessed data at a temporary location for quicker access in the future to significantly improve the performance of an application by reducing the time required for connecting with the data source frequently and sending data across the network. </br>
+<a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/>
 
 ### Bootstrap Multi Select Dropdown | August 2022
-Building a multi select drop down using JavaScript, CSS and Boostrap.
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>Building a multi select drop down using JavaScript, CSS and Boostrap.</br>
+<a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/>
 
 ## How To Reach Me
 Should you wish to contact me, please send me message on LinkedIn.
