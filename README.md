@@ -8,6 +8,8 @@ Exploring the technique of storing frequently accessed data at a temporary locat
 
 Source Code: https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching
 
+ <img src="https://github.com/Hendrik-de-Wet/Resources/blob/main/dot-net-core-in-memory-caching.png"/>
+
 ## How To Reach Me
 Should you wish to contact me, please send me message on LinkedIn.
 
