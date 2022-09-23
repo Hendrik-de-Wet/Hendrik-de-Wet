@@ -6,13 +6,13 @@ Should you wish to contact me, please send me message on LinkedIn.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/hendrikdewet/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width:125px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="75" style="width:75px"/>
   </a>
 </div>
 
 ## Languages And Tools
 
-
+Just some fo the languages and tools that I am currently working with.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="75" height="75"/>&nbsp;
@@ -21,8 +21,6 @@ Should you wish to contact me, please send me message on LinkedIn.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="75" height="75"/>
 </div>
 
 <!--
