@@ -1,5 +1,6 @@
 ## About Me
-Hi, I am Hendrik, a full stack .NET developer and graphic designer from Cape Town, South Africa. I am passionate about technology, formulating solutions and always driving excellence through collaboration and knowledge sharing. Always determined to achieve extraordinary results and  I take pride in crafting beautiful, performant and secure web/user experiences. 
+Hi, I am Hendrik, a full stack .NET developer and graphic designer from Cape Town, South Africa. 
+I am passionate about technology and hiking.  When I am not on a trail in the mountains, you will find me in front of my laptop - exploring new technologies and/or creating new designs/illustrations.
 
 ## Currently Exploring
 
