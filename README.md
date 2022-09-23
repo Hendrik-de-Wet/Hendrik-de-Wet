@@ -4,10 +4,7 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 
 ## Currently Exploring
 
-[![Proguard](https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching)](http://www.thiengo.com.br/proguard-android){: .image-left } Your Text comes here...
-
-
-### .NET - Global Error Handler Middleware | September 2022 
+<img align="left" src="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching"> ### .NET - Global Error Handler Middleware | September 2022 
 
 Using the global error handler to catch all errors and remove the need for duplicated error handling code throughout the .NET API application. This is configured as middleware in the configure HTTP request pipeline section of the Program.cs file. <a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/>
   
