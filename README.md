@@ -7,7 +7,7 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 <table width="100%">
   <tr>
   <td width="100px">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET CORE" alt=".NET CORE" width="75" height="75"/>&nbsp;    
+      <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET CORE" alt=".NET CORE" width="75px" height="75px"/>&nbsp;    
     </td>
   <td width="100%">
     ### .NET - Global Error Handler Middleware | September 2022
