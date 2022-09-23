@@ -1,4 +1,4 @@
-## About Me
+# About Me
 Hi, I am Hendrik, a full stack .NET developer and graphic designer from Cape Town, South Africa. 
 I am passionate about technology and hiking.  When I am not on a trail in the mountains, you will find me in front of my laptop - exploring new technologies and/or creating new designs/illustrations.
 
@@ -17,7 +17,7 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 <a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/>
 
 ### Bootstrap Multi Select Dropdown | August 2022
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>Building a multi select drop down using JavaScript, CSS and Boostrap.</br>
+<img align="left" width="75" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>Building a multi select drop down using JavaScript, CSS and Boostrap.</br>
 <a href="https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching">Read More <a/>
 
 ## How To Reach Me
