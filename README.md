@@ -4,8 +4,9 @@ I am a full stack developer and graphic designer from Cape Town, South Africa. I
 ## Currently Working and Learning On
 
 ### ASP.NET Core - In-Memory Caching in ASP.NET Core
-Exploring the technique of storing frequently accessed data at a temporary location for quicker access in the future to significantly improve the performance of an application by reducing the time required for connecting with the data source frequently and sending data across the network. 
-Example Code https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching
+Exploring the technique of storing frequently accessed data at a temporary location for quicker access in the future to significantly improve the performance of an application by reducing the time required for connecting with the data source frequently and sending data across the network.
+
+Source Code: https://github.com/Hendrik-de-Wet/.NET-Core/tree/main/dot-net-core-in-memory-caching
 
 ## How To Reach Me
 Should you wish to contact me, please send me message on LinkedIn.
