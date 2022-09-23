@@ -19,7 +19,7 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 </br>
 </br>
 ### Animating SVG with CSS | July 2022
-<img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>There isn’t just one way to animate a SVG file. There is the <animate> and <animateTransform> tags that goes right into the SVG code. <a href="https://github.com/Hendrik-de-Wet/html-css-svg-rotating-cogs">Read More <a/></br>
+<img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>Explored the presentation attributes of a SVG that are similar to CSS styles but are set directly on the SVG. <a href="https://github.com/Hendrik-de-Wet/html-css-svg-rotating-cogs">Read More <a/></br>
 </br>
 </br>
 ## How To Reach Me
