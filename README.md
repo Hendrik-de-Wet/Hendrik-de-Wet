@@ -4,9 +4,6 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 
 ## Currently Exploring
 
-Inline-style: 
-![alt text](https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg "Logo Title Text 1")
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET CORE" alt=".NET CORE" width="75px" height="75px"/>&nbsp;    
       
 ### .NET - Global Error Handler Middleware | September 2022
