@@ -1,10 +1,10 @@
-# About Me
+## About Me
 Hi, I am Hendrik, a full stack .NET developer and graphic designer from Cape Town, South Africa. 
 I am passionate about technology and hiking.  When I am not on a trail in the mountains, you will find me in front of my laptop - exploring new technologies and/or creating new designs/illustrations.
 
 ## Currently Exploring
 
-### .NET - Global Error Handler Middleware | September 2022 
+### .NET - Global Error Handler Middleware
 <img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"> Using the global error handler to catch all errors and remove the need for duplicated error handling code throughout the .NET API application. This is configured as middleware in the configure HTTP request pipeline section of the Program.cs file. <a href="https://github.com/Hendrik-de-Wet/dot-net-global-error-handler">Read More <a/>
 
 
@@ -23,7 +23,7 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 </br>
 </br>
 ## How To Reach Me
-Should you wish to contact me, please send me message on LinkedIn.
+Should you wish to contact me, please send me message on LinkedIn. For my design portfolio, visit my Behance profile below.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/hendrikdewet/">
@@ -37,7 +37,7 @@ Should you wish to contact me, please send me message on LinkedIn.
 
 ## Languages And Tools
 
-Just some fo the languages and tools that I am currently working with.
+Just some fo the languages and tools that I am currently working with at the moment.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="75" height="75"/>&nbsp;
