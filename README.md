@@ -11,14 +11,14 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 
 ## Explored
   
-### .NET  - In-Memory Caching in .NET | September 2022
+### .NET  - In-Memory Caching in .NET 
 <img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"> Exploring the technique of storing frequently accessed data at a temporary location for quicker access in the future to significantly improve the performance of an application by reducing the time required for connecting with the data source frequently and sending data across the network. <a href="https://github.com/Hendrik-de-Wet/dot-net-in-memory-caching">Read More <a/>
 
-### Bootstrap Multi Select Dropdown | August 2022
+### Bootstrap Multi Select Dropdown
 <img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>Building a multi select drop down using JavaScript, CSS and Bootstrap. <a href="#">Read More <a/></br>
 </br>
 </br>
-### Animating SVG with CSS | July 2022
+### Animating SVG with CSS
 <img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>Created a simple cog graphic in Adobe Illustrator and explored the animation/presentation attributes of the SVG that are similar to CSS styles but are set directly on the SVG. <a href="https://github.com/Hendrik-de-Wet/html-css-svg-rotating-cogs">Read More <a/></br>
 </br>
 </br>
@@ -47,4 +47,5 @@ Just some fo the languages and tools that I am currently working with.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Firebase" alt="Firebase" width="75" height="75"/>&nbsp;
 </div>
