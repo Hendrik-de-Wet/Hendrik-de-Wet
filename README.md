@@ -2,7 +2,7 @@
 Hi, I am Hendrik, a full stack .NET developer and graphic designer from Cape Town, South Africa. 
 I am passionate about technology and hiking.  When I am not on a trail in the mountains, you will find me in front of my laptop - exploring new technologies and/or creating new designs/illustrations.
 
-<img src="https://github.com/Hendrik-de-Wet/Resources/blob/main/Singular%20Table%20Mountain-01.png" width="800"/>
+<img src="https://github.com/Hendrik-de-Wet/Resources/blob/main/Singular%20Table%20Mountain-01.png" width="100%"/>
 
 ## Currently Exploring
 
