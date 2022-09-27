@@ -7,8 +7,11 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 ## Currently Exploring
 
 <img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">Testing ASP.NET Core Applications
-</br>
-</br>
+- Unit Testing with xUnit in ASP.NET Core MVC
+- Testing Controllers with Unit Tests and Moq in ASP.NET Core
+- Integration Testing in ASP.NET Core
+- AntiForgeryToken for MVC Integration Testing
+- Automated UI tests with Selenium and ASP.NET Core
 ## Explored
 
 ### .NET - Global Error Handler Middleware
