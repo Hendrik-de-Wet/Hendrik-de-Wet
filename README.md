@@ -6,7 +6,7 @@ I am passionate about technology and hiking.  When I am not on a trail in the mo
 
 ## Currently Exploring
 
-Azure Fundamentals
+<img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">Testing ASP.NET Core Applications
 
 ## Explored
 
