@@ -37,9 +37,9 @@ Should you wish to contact me, please send me message on LinkedIn. For my design
 </div>
 
 
-## Languages And Tools
+## Languages, Frameworks And Tools
 
-Just some fo the languages and tools that I am currently working with at the moment.
+Just some fo the languages, frameworks and tools that I am currently working with at the moment.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="75" height="75"/>&nbsp;
