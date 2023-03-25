@@ -43,6 +43,7 @@ Just some fo the languages and tools that I am currently working with at the mom
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".dot-net" alt=".dot-net" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET CORE" alt=".NET CORE" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node js" alt="node JS" width="75" height="75"/>&nbsp;
@@ -55,4 +56,14 @@ Just some fo the languages and tools that I am currently working with at the mom
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Illustrator" alt="Photoshop" width="75" height="75"/>&nbsp;
+  
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="75" height="75"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="75" height="75"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="bitbucket" alt="bitbucket" width="75" height="75"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="materialui" alt="materialui" width="75" height="75"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="codepen" alt="codepen" width="75" height="75"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="75" height="75"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="75" height="75"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="75" height="75"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="75" height="75"/>&nbsp;
 </div>
