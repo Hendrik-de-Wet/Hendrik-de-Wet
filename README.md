@@ -14,6 +14,7 @@ Let's connect if you want to discuss software development, hiking & outdoor adve
 
 ## Explored
 
+### React - Sidebar Navigation Component
 <img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"> Creating a react multi-level sidebar menu component with React. <a href="https://github.com/Hendrik-de-Wet/react-sidebar-navigation">Read More <a/><br/><br/>
 
 ### .NET - Global Error Handler Middleware
