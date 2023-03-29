@@ -14,6 +14,8 @@ Let's connect if you want to discuss software development, hiking & outdoor adve
 
 ## Explored
 
+<img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"> Creating a react multi-level sidebar menu component with React. <a href="https://github.com/Hendrik-de-Wet/react-sidebar-navigation">Read More <a/>
+
 ### .NET - Global Error Handler Middleware
 <img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"> Using the global error handler to catch all errors and remove the need for duplicated error handling code throughout the .NET API application. This is configured as middleware in the configure HTTP request pipeline section of the Program.cs file. <a href="https://github.com/Hendrik-de-Wet/dot-net-global-error-handler">Read More <a/>
 
