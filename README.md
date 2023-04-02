@@ -1,12 +1,3 @@
-## About Me
-Hi, I am Hendrik, as a Full Stack developer, I seamlessly blend my passion for nature with my expertise in creating innovative web applications.
-
-Inspired by the multifaceted beauty of nature, I use my creative problem-solving skills to enhance online user experiences. I love creating digital experiences that are both functional and visually appealing.
-
-Let's connect if you want to discuss software development, hiking & outdoor adventures, or anything in between. Currently not seeking employment but always open to meaningful conversations.
-
-<img src="https://github.com/Hendrik-de-Wet/Resources/blob/main/Singular%20Table%20Mountain-01.png" width="100%"/>
-
 ## Currently Exploring
 
 ### Testing ASP.NET Core Applications
