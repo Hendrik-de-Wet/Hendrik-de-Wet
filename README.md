@@ -18,17 +18,6 @@
 <img align="left" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>Created a simple cog graphic in Adobe Illustrator and explored the animation/presentation attributes of the SVG that are similar to CSS styles but are set directly on the SVG. <a href="https://github.com/Hendrik-de-Wet/html-css-svg-rotating-cogs">Read More <a/></br>
 </br>
 </br>
-## How To Reach Me
-Should you wish to contact me, please send me message on LinkedIn. For my design portfolio, visit my Behance profile below.
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/hendrikdewet/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="75" style="width:75px"/>
-  </a>
-  <a href="https://www.behance.net/hendrikdewet/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" alt="Behance" width="75" style="width:75px"/>
-  </a>
-</div>
 
 
 ## Languages, Frameworks And Tools
